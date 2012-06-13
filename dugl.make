@@ -48,7 +48,7 @@ projects[] = drupal
 
 projects[dugl][type] = profile
 projects[dugl][download][type] = git
-projects[dugl][download][url] = http://git.drupal.org/project/l10n_install.git
+projects[dugl][download][url] = https://github.com/DUG-Leipzig/dugl-profile.git
 
 ; ### THEMES
 
